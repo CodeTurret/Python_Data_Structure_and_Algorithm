@@ -26,3 +26,12 @@ arrayName.remove(98)
 # Search Operation
 
 print(arrayName.index(45))
+
+# Update Operation
+
+array1 = array('i', [10,20,30,40,50])
+
+array1[2] = 80
+
+for x in array1:
+ print(x)
