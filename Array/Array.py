@@ -18,3 +18,10 @@ arrayName.insert(1,98)
 
 for i in arrayName:
      print(i)
+
+# Deletion Operation
+
+arrayName.remove(98)
+
+for i in arrayName:
+     print(i)
