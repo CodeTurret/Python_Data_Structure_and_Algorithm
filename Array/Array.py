@@ -23,5 +23,6 @@ for i in arrayName:
 
 arrayName.remove(98)
 
-for i in arrayName:
-     print(i)
+# Search Operation
+
+print(arrayName.index(45))
